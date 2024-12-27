@@ -1,4 +1,4 @@
-#Secure Crisis Communication Platform.
+Secure Crisis Communication Platform.
 
 Domain:
 National Security.
