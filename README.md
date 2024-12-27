@@ -1,21 +1,21 @@
-#Title of Project : Secure Crisis Communication Platform.
+#Secure Crisis Communication Platform.
 
-#Domain: 
+Domain:
 National Security.
 
-#Description: 
+Description:
 A MERN-based AI platform enabling secure, real-time communication for national security agencies during crises.
 
-#Hardware/Software: 
+Hardware/Software: 
 Encrypted communication devices, command-center software.
 
-#Technology: 
+Technology: 
 AI, MERN STACK.
 
-#Objective: 
+Objective: 
 Improve coordination among agencies during emergencies.
 
-#Targeted Outcome: 
+Targeted Outcome: 
  - Faster Response Times: Enable rapid actions. 
  - Secure Channels: Protect communication against breaches. 
  - Seamless Coordination: Enhance inter-agency collaboration. 
